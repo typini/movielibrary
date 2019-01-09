@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TPRS Movie Library</title>
+    <link href="https://fonts.googleapis.com/css?family=Dosis:400,700" rel="stylesheet" />
+    <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="cinematicBackground" id="cinematicBackground"></div>
+    <div class="cinematicScreen" id="cinematicScreen"></div>
+    <div id="libraryList">
+        <select name="dropdown" id="dropdown" onchange="selectTitle()"></select>
+        <!-- <input type="button" id="press" value="press" onclick="buttonPress()" /> -->
+        <input type="button" id="clear" value="clear" onclick="buttonClear()" />
+        <input type="button" id="back" value="previous pick" onclick="buttonBack()" />
+        <input type="button" id="randomize" value="pick random" onclick="randomize()" />
+        <input type="button" id="setAlphabet" value="Alpha Select" onclick="setAlphas()" />
+        <input type="button" id="setGenres" value="Genre Select" onclick="setGenres()" />
+    </div>
+
+    <ul id="selector">
+    </ul>
+
+    <div id="posterContainer">
+        <img id="moviePoster" src="./images/cinema.jpg"></img>
+        <div id="runtimeContainer">
+            <div id="movieRuntime"></div>
+        </div>
+    </div>
+
+    <div id="locBar">
+        <img class="icon" id="VUDU" src="./images/vudublue.png" />
+        <img class="icon" id="AMAZON" src="./images/amazon.png" />
+        <img class="icon" id="APPLE" src="./images/apple.png" />
+        <img class="icon" id="4K" src="./images/4k.png" />
+        <img class="icon" id="BLURAY3D" src="./images/bluray3d.png" />
+        <img class="icon" id="BLURAY" src="./images/bluray.png" />
+        <img class="icon" id="DVD" src="./images/dvd.png" />
+        <img class="icon" id="MS" src="./images/mediaserver.png" />
+    </div>
+
+    <div id="root">
+        <div id="movieText">
+            <div id="releaseDate"></div>
+            <div id="movieID"></div>
+            <div class="wrapper">
+                <div id="movieTitle"></div>
+            </div>
+            <div class="wrapper">
+                <div id="movieTagline"></div>
+            </div>
+
+            <div id="movieGenres"></div>
+
+            <div id="movieOverview"></div>
+
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

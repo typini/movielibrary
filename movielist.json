@@ -1,0 +1,542 @@
+{
+   "tt0050083": {
+        "title": "12 Angry Men",
+        "loc": [ "VUDU", "AMAZON", "APPLE", "4K", "BLURAY3D", "BLURAY", "DVD", "MS" ]
+    },
+	"tt0101272": {
+		"title" : "Addams Family, The",
+		"loc": ["VUDU"]
+	},
+	"tt0041094": {
+		"title" : "Adventures of Icabod and Mr. Toad, The",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0103639": {
+		"title" : "Aladdin",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0086879": {
+		"title" : "Amadeus",
+		"loc": ["VUDU"]
+	},
+	"tt0478970": {
+		"title" : "Ant-Man",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0848228": {
+		"title" : "Avengers",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt2395427": {
+		"title" : "Avengers: Age of Ultron",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0103776": {
+		"title" : "Batman Returns",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0052618": {
+		"title" : "Ben-Hur",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt2245084": {
+		"title" : "Big Hero 6",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt1825683": {
+		"title" : "Black Panther",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0061418": {
+		"title" : "Bonnie and Clyde",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt2262227": {
+		"title" : "Book of Life, The",
+    "loc": [ "VUDU", "BLURAY3D", "APPLE", "AMAZON" ]
+	},
+	"tt0088847": {
+		"title" : "Breakfast Club, The",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0388795": {
+		"title" : "Brokeback Mountain",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt3498820": {
+		"title" : "Captain America: Civil War",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0458339": {
+		"title" : "Captain America: The First Avenger",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0034583": {
+		"title" : "Casablanca",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0264464": {
+		"title" : "Catch Me If You Can",
+		"loc": ["VUDU"]
+	},
+  "tt1290135": {
+    "title": "Children of the Corn",
+    "loc": ["APPLE"]
+  },
+  "tt0106557": {
+    "title": "Children of the Corn II",
+    "loc": [ "APPLE" ]
+  },
+	"tt0844471": {
+		"title" : "Cloudy with a Chance of Meatballs",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0080549": {
+		"title" : "Coal Miner's Daughter",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt3065204": {
+		"title" : "Conjuring 2, The",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt2554274": {
+		"title" : "Crimson Peak",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt2103281": {
+		"title" : "Dawn of the Planet of the Apes",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+  "tt4130484": {
+    "title": "Demon House",
+    "loc": [ "APPLE" ]
+  },
+	"tt0458352": {
+		"title": "Devil Wears Prada, The",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt1211837": {
+		"title" : "Doctor Strange",
+    "loc": [ "VUDU", "BLURAY3D", "APPLE", "AMAZON" ]
+	},
+	"tt0057012": {
+		"title" : "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0780504": {
+		"title" : "Drive",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0099487": {
+		"title" : "Edward Scissorhands",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0120631": {
+		"title" : "Ever After: A Cinderella Story",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt2704998": {
+		"title" : "Game Night",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt1161418": {
+		"title" : "Gentlemen Broncos",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0099653": {
+		"title" : "Ghost",
+		"loc": ["VUDU"]
+	},
+	"tt1289401": {
+		"title" : "Ghostbusters: Answer the Call",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+  "tt1132620": {
+    "title": "Girl with the Dragon Tattoo, The",
+    "loc": [ "AMAZON" ]
+  },
+  "tt1216487": {
+    "title": "Girl Who Played with Fire, The",
+    "loc": [ "AMAZON" ]
+  },
+  "tt1343097": {
+    "title": "Girl Who Kicked the Hornet's Nest, The",
+    "loc": [ "AMAZON" ]
+  },
+	"tt2015381": {
+		"title" : "Guardians of the Galaxy",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt3896198": {
+		"title" : "Guardians of the Galaxy Vol. 2",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+  "tt0373883": {
+    "title": "Halloween (directed by Rob Zombie)",
+    "loc": [ "AMAZON" ]
+  },
+	"tt0241527": {
+		"title": "Harry Potter and the Sorcerer's Stone",
+		"loc":["DVD"]
+	},
+	"tt1201607": {
+		"title": "Harry Potter and the Deathly Hallows: Part 2",
+    "loc": [ "VUDU", "BLURAY", "DVD", "MS", "APPLE", "AMAZON" ]
+	},
+	"tt0274558": {
+		"title": "Hours, The",
+		"loc": ["DVD", "MS"]
+	},
+	"tt0385004": {
+		"title" : "House of Flying Daggers",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0268380": {
+		"title" : "Ice Age",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+  "tt2096673": {
+    "title": "Inside Out",
+    "loc": [ "APPLE", "AMAZON" ]
+  },
+	"tt1591095": {
+		"title" : "Insidious",
+		"loc": ["DVD"]
+	},
+	"tt2226417": {
+		"title" : "Insidious: Chapter 2",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt3195644": {
+		"title" : "Insidious: Chapter 3",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0816692": {
+		"title" : "Interstellar",
+    "loc": [ "VUDU", "APPLE" ]
+	},
+	"tt2180411": {
+		"title" : "Into the Woods",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0129167": {
+		"title" : "Iron Giant, The",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+  "tt0099864": {
+        "title": "IT (with Tim Curry)",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+  },
+	"tt1396484": {
+    "title": "IT (with Bill Skarsgård)",
+    "loc": [ "VUDU", "AMAZON" ]
+	},
+	"tt0038650":{
+		"title": "It's a Wonderful Life",
+		"loc": ["AMAZON"]
+	},
+	"tt4196776": {
+		"title": "Jason Bourne",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt1710396": {
+		"title" : "Joyful Noise",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt3850590": {
+		"title" : "Krampus",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0091369": {
+		"title" : "Labyrinth",
+    "loc": [ "VUDU", "4K", "APPLE", "AMAZON" ]
+	},
+	"tt0089469": {
+		"title" : "Legend (Theatrical Version)",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+  "tt1490017": {
+    "title": "Lego Movie, The",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+  },
+	"tt1631867": {
+		"title": "Live, Die, Repeat.",
+    "loc": [ "APPLE", "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0093437": {
+		"title" : "Lost Boys, The",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt5164432": {
+		"title" : "Love, Simon",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt1392190": {
+		"title" : "Mad Max: Fury Road",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt2023587": {
+		"title" : "Mama",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0770828": {
+		"title" : "Man of Steel",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0058331": {
+		"title" : "Mary Poppins",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0325805": {
+		"title" : "Matchstick Men",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt1790864": {
+		"title" : "Maze Runner, The",
+    "loc": [ "VUDU", "4K", "APPLE", "AMAZON" ]
+	},
+	"tt4046784": {
+		"title" : "Maze Runner, The: Scorch Trials",
+    "loc": [ "VUDU", "4K", "APPLE", "AMAZON" ]
+	},
+	"tt1229238": {
+		"title" : "Mission: Impossible 4: Ghost Protocol",
+		"loc": ["VUDU"]
+	},
+	"tt2381249": {
+		"title" : "Mission: Impossible 5: Rogue Nation",
+		"loc": ["VUDU"]
+	},
+  "tt0884328": {
+    "title": "Mist, The",
+    "loc": [ "AMAZON" ]
+  },
+  "tt0093560": {
+    "title": "Monster Squad, The",
+    "loc": [ "AMAZON" ]
+  },
+	"tt0198781": {
+		"title" : "Monsters, Inc.",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0374900": {
+		"title" : "Napoleon Dynamite",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0088323": {
+		"title" : "Neverending Story, The",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0107688": {
+		"title" : "Nightmare Before Christmas, The",
+    "loc": [ "VUDU", "BLURAY3D", "APPLE", "AMAZON" ]
+	},
+	"tt1670345": {
+		"title" : "Now You See Me",
+		"loc": ["VUDU"]
+	},
+	"tt3110958": {
+		"title" : "Now You See Me 2",
+		"loc": ["VUDU"]
+	},
+	"tt1483013": {
+		"title" : "Oblivion",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt1623205": {
+		"title" : "Oz the Great and Powerful",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt1663662": {
+		"title" : "Pacific Rim",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt2452042": {
+		"title" : "Peanuts Movie, The",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt1077258": {
+		"title": "Planet Terror",
+		"loc": "VUDU"
+	},
+	"tt1446714": {
+		"title" : "Prometheus",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt2184339": {
+		"title" : "Purge, The",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt4094724": {
+		"title" : "Purge, The: Election Year",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0250687": {
+		"title" : "Rat Race",
+		"loc": ["VUDU"]
+	},
+	"tt1318514": {
+		"title" : "Rise of the Planet of the Apes",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt3748528": {
+		"title" : "Rogue One",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt2140373": {
+		"title" : "Saving Mr. Banks",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0387564": {
+		"title" : "Saw",
+		"loc": ["VUDU"]
+	},
+	"tt0432348": {
+		"title" : "Saw II",
+		"loc": ["VUDU"]
+	},
+	"tt0489270": {
+		"title" : "Saw III",
+		"loc": ["VUDU"]
+	},
+	"tt0890870": {
+		"title" : "Saw IV",
+		"loc": ["VUDU"]
+	},
+	"tt1132626": {
+		"title" : "Saw V",
+		"loc": ["VUDU"]
+	},
+	"tt1233227": {
+		"title" : "Saw VI",
+		"loc": ["VUDU"]
+	},
+	"tt1477076": {
+		"title" : "Saw: The Final Chapter",
+		"loc": ["VUDU"]
+	},
+	"tt0023427": {
+		"title" : "Scarface (directed by Howard Hawks)",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0384537": {
+		"title" : "Silent Hill",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0938330": {
+		"title" : "Silent Hill: Revelation",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0045152": {
+		"title" : "Singin' in the Rain",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt1922777": {
+		"title" : "Sinister",
+    "loc": [ "VUDU", "APPLE" ]
+	},
+	"tt0105417": {
+		"title" : "Sister Act",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt3778644": {
+		"title" : "Solo",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt2250912": {
+		"title" : "Spider-Man: Homecoming",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0796366": {
+		"title" : "Star Trek (directed by J. J. Abrams)",
+    "loc": [ "VUDU", "4K" ]
+	},
+	"tt2488496": {
+		"title" : "Star Wars VII:  The Force Awakens",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0096256": {
+		"title" : "They Live",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt3501632": {
+		"title" : "Thor: Ragnarok",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt1981115": {
+		"title" : "Thor: The Dark World",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+  "tt0435761": {
+    "title": "Toy Story 3",
+    "loc": [ "APPLE", "AMAZON" ]
+  },
+  "tt1104001": {
+    "title": "Tron: Legacy",
+    "loc": [ "APPLE", "AMAZON" ]
+  },
+	"tt0052357": {
+		"title" : "Vertigo",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt3567288": {
+		"title" : "Visit, The",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt3450958": {
+		"title" : "War of the Planet of the Apes",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt1067583": {
+		"title" : "Water for Elephants",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0161081": {
+		"title": "What Lies Beneath",
+		"loc": ["DVD"]
+	},
+	"tt0108550": {
+		"title" : "What's Eating Gilbert Grape",
+		"loc": ["VUDU"]
+	},
+	"tt0067992": {
+		"title" : "Willy Wonka & the Chocolate Factory",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt4263482": {
+		"title" : "VVitch, The",
+		"loc": ["VUDU"]
+	},
+	"tt0032138": {
+		"title" : "Wizard of Oz, The",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt0451279": {
+		"title": "Wonder Woman",
+    "loc": [ "APPLE", "VUDU", "AMAZON" ]
+	},
+	"tt1213663": {
+		"title" : "World's End, The",
+    "loc": [ "VUDU", "AMAZON" ]
+	},
+  "tt0816711": {
+    "title": "World War Z",
+    "loc": [ "APPLE" ]
+  },
+  "tt0458525": {
+    "title": "X-Men Origins: Wolverine",
+    "loc": [ "APPLE" ]
+  },
+	"tt1877832": {
+		"title" : "X-Men: Days of Future Past",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt1270798": {
+		"title" : "X-Men: First Class",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	},
+	"tt2948356": {
+		"title" : "Zootopia",
+    "loc": [ "VUDU", "APPLE", "AMAZON" ]
+	}
+}
