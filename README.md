@@ -6,3 +6,5 @@ I created the repository for the movie library and uploaded my files.
 To Do:  Alpha List, Genre List, tile the movie posters and make them clickable, add the rest of my library.
 Started a branch dedicated to tiling movie posters.
 
+To see a functioning version of this project in its current state, visit:
+http://www.tyreepini.com/samples/movielibrary.html
