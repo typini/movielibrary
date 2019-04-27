@@ -7,4 +7,4 @@ To Do:  Alpha List, Genre List, tile the movie posters and make them clickable, 
 Started a branch dedicated to tiling movie posters.
 
 To see a functioning version of this project in its current state, visit:
-http://www.tyreepini.com/samples/movielibrary.html
+http://www.tyreepini.com/MovieLibrary/index.html
